@@ -1,7 +1,6 @@
 EspressoIDEA theme
 ========================
 
-![LOGO!](https://raw.githubusercontent.com/Rasarts/EspressoIDEA/master/preview/screen.png)
 ![LOGO!](https://raw.githubusercontent.com/Rasarts/EspressoIDEA/master/preview/new.png)
 ![LOGO!](https://raw.githubusercontent.com/Rasarts/EspressoIDEA/master/preview/css.png)
 ![LOGO!](https://raw.githubusercontent.com/Rasarts/EspressoIDEA/master/preview/html.png)
