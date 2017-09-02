@@ -3,7 +3,7 @@
     <property name="created">2017-08-29T20:16:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-08-29T20:29:59</property>
+    <property name="modified">2017-09-02T21:37:52</property>
     <property name="originalScheme">EspressoIdea</property>
   </metaInfo>
   <colors>
@@ -442,10 +442,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fff3ec" />
-        <option name="BACKGROUND" value="ca205f" />
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="FOREGROUND" value="c4395f" />
+        <option name="BACKGROUND" value="fed871" />
+        <option name="EFFECT_COLOR" value="febf53" />
+        <option name="ERROR_STRIPE_COLOR" value="febf53" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
