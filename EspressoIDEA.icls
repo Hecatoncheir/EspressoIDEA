@@ -1,11 +1,11 @@
-<scheme name="EspressoIDEA" version="142" parent_scheme="Default">
+<scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-08-29T20:16:33</property>
+    <property name="created">2018-01-18T13:13:43</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-01-17T10:33:02</property>
-    <property name="originalScheme">EspressoIdea</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-01-18T13:13:53</property>
+    <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -228,7 +228,7 @@
     </option>
     <option name="DART_CLASS">
       <value>
-        <option name="FOREGROUND" value="8e4ba3" />
+        <option name="FOREGROUND" value="661381" />
       </value>
     </option>
     <option name="DART_CONSTRUCTOR_CALL">
@@ -326,7 +326,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ea1e2" />
+        <option name="FOREGROUND" value="661381" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -409,7 +409,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="319dee" />
+        <option name="FOREGROUND" value="e85bc" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
