@@ -1,9 +1,9 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-03-27T13:36:43</property>
+    <property name="created">2018-03-27T13:41:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-27T13:36:51</property>
+    <property name="modified">2018-03-27T13:42:03</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -79,7 +79,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="94d05d" />
+        <option name="FOREGROUND" value="a9c951" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
