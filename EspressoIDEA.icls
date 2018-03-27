@@ -1,27 +1,21 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-01-18T13:43:18</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-18T13:43:25</property>
+    <property name="created">2018-03-27T13:36:43</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-03-27T13:36:51</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c4d681" />
     <option name="CARET_COLOR" value="630c50" />
-    <option name="DELETED_LINES_COLOR" value="cd356f" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
     <option name="GUTTER_BACKGROUND" value="edeef4" />
-    <option name="INDENT_GUIDE" value="eeeeee" />
     <option name="INFORMATION_HINT" value="fee88d" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
-    <option name="MODIFIED_LINES_COLOR" value="bfc9dd" />
     <option name="SELECTION_BACKGROUND" value="fffae3" />
     <option name="SELECTION_FOREGROUND" value="ca205f" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="677392" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffebca" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -78,35 +72,34 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="CONSOLE_GREEN_OUTPUT">
+    <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a6c155" />
+        <option name="FOREGROUND" value="424662" />
       </value>
     </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+    <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff3958" />
+        <option name="FOREGROUND" value="94d05d" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="424662" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff3958" />
+        <option name="FOREGROUND" value="ec5416" />
       </value>
     </option>
-    <option name="CONSOLE_USER_INPUT">
+    <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a9c951" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="eada4e" />
+        <option name="FOREGROUND" value="424662" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bfbf00" />
+        <option name="FOREGROUND" value="ffc455" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -225,7 +218,7 @@
     </option>
     <option name="DART_CLASS">
       <value>
-        <option name="FOREGROUND" value="661381" />
+        <option name="FOREGROUND" value="8e4ba3" />
       </value>
     </option>
     <option name="DART_CONSTRUCTOR_CALL">
@@ -323,7 +316,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="661381" />
+        <option name="FOREGROUND" value="c13941" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -406,7 +399,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e85bc" />
+        <option name="FOREGROUND" value="db3516" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -422,13 +415,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEPRECATED_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="c23e45" />
-        <option name="EFFECT_COLOR" value="db3516" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="ffded8" />
@@ -437,20 +423,20 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="e3c9cf" />
-        <option name="ERROR_STRIPE_COLOR" value="e13981" />
+        <option name="BACKGROUND" value="d6d6d6" />
+        <option name="ERROR_STRIPE_COLOR" value="cbcbcb" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
         <option name="BACKGROUND" value="c8f2c8" />
-        <option name="ERROR_STRIPE_COLOR" value="c5e25d" />
+        <option name="ERROR_STRIPE_COLOR" value="baeeba" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
         <option name="BACKGROUND" value="cad9fa" />
-        <option name="ERROR_STRIPE_COLOR" value="8d9dc2" />
+        <option name="ERROR_STRIPE_COLOR" value="bccff9" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -564,7 +550,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="95a92a" />
+        <option name="FOREGROUND" value="6291c7" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -629,21 +615,6 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="JADE_FILE_PATH">
-      <value>
-        <option name="FOREGROUND" value="ff" />
-      </value>
-    </option>
-    <option name="JADE_JS_BLOCK">
-      <value>
-        <option name="FOREGROUND" value="6900c6" />
-      </value>
-    </option>
-    <option name="JADE_STATEMENTS">
-      <value>
-        <option name="FOREGROUND" value="803d12" />
-      </value>
-    </option>
     <option name="JAVADOC_ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -682,7 +653,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cd2a55" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
@@ -692,7 +663,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b81" />
+        <option name="FOREGROUND" value="ffa500" />
       </value>
     </option>
     <option name="MARKDOWN.BOLD">
@@ -813,8 +784,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a0c72d" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="b1dd32" />
+        <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="dd966f" />
       </value>
     </option>
@@ -852,8 +823,6 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c13941" />
-        <option name="EFFECT_COLOR" value="db3516" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_COMMENT">
