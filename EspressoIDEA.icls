@@ -1,23 +1,20 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-09T17:51:35</property>
+    <property name="created">2018-04-10T17:53:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-09T17:51:39</property>
+    <property name="modified">2018-04-10T17:53:56</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
-  <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="630c50" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
-    <option name="GUTTER_BACKGROUND" value="f0f4f9" />
+    <option name="GUTTER_BACKGROUND" value="f6f7fb" />
     <option name="INFORMATION_HINT" value="fee88d" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
     <option name="SELECTION_BACKGROUND" value="fffae3" />
@@ -105,7 +102,8 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff892d" />
+        <option name="FOREGROUND" value="ec5416" />
+        <option name="BACKGROUND" value="fffae3" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
