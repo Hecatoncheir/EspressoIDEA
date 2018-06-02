@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-02T13:05:06</property>
+    <property name="created">2018-06-02T13:24:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-02T13:05:13</property>
+    <property name="modified">2018-06-02T13:24:20</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -24,7 +24,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
     <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
-    <option name="SELECTION_BACKGROUND" value="fffae3" />
+    <option name="SELECTION_BACKGROUND" value="ffe0c8" />
     <option name="SELECTION_FOREGROUND" value="ca205f" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
