@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-10T17:53:50</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-10T17:53:56</property>
+    <property name="created">2018-06-02T12:50:39</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-06-02T12:50:48</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -12,13 +12,22 @@
   <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <colors>
     <option name="CARET_COLOR" value="630c50" />
+    <option name="DOCUMENTATION_COLOR" value="fffceb" />
+    <option name="ERROR_HINT" value="ff4872" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
-    <option name="GUTTER_BACKGROUND" value="f6f7fb" />
+    <option name="GUTTER_BACKGROUND" value="fbfbff" />
+    <option name="INDENT_GUIDE" value="e9f2fb" />
     <option name="INFORMATION_HINT" value="fee88d" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
+    <option name="QUESTION_HINT" value="e0e13b" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
+    <option name="RIGHT_MARGIN_COLOR" value="aeb4c9" />
+    <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
     <option name="SELECTION_BACKGROUND" value="fffae3" />
     <option name="SELECTION_FOREGROUND" value="ca205f" />
+    <option name="TOOLTIP" value="fffceb" />
+    <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -182,8 +191,8 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="677392" />
-        <option name="EFFECT_COLOR" value="ff" />
+        <option name="FOREGROUND" value="ff4453" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -494,9 +503,9 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b48351" />
+        <option name="FOREGROUND" value="bae173" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
@@ -652,6 +661,24 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="b6d334" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ff315d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="e8ee3c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
@@ -690,6 +717,7 @@
         <option name="FOREGROUND" value="630c50" />
         <option name="BACKGROUND" value="fee88d" />
         <option name="EFFECT_COLOR" value="c4395f" />
+        <option name="ERROR_STRIPE_COLOR" value="b6d334" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -747,8 +775,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="6191c6" />
+        <option name="FOREGROUND" value="ff315d" />
+        <option name="BACKGROUND" value="fff4e2" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
@@ -777,7 +805,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="fff9d8" />
-        <option name="ERROR_STRIPE_COLOR" value="6dc71b" />
+        <option name="ERROR_STRIPE_COLOR" value="b1e158" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
@@ -821,7 +849,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d6eaff" />
+        <option name="FOREGROUND" value="ff4453" />
+        <option name="BACKGROUND" value="fff4e2" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
