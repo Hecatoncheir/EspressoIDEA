@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-03T19:05:56</property>
+    <property name="created">2018-06-03T20:49:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-03T19:06:05</property>
+    <property name="modified">2018-06-03T20:49:34</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -25,8 +25,10 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
     <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
+    <option name="SELECTED_TEARLINE_COLOR" value="9c2545" />
     <option name="SELECTION_BACKGROUND" value="ffe0c8" />
     <option name="SELECTION_FOREGROUND" value="ca205f" />
+    <option name="TEARLINE_COLOR" value="c3c1e4" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f6eeac" />
@@ -484,8 +486,8 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="b0e3a6" />
-        <option name="ERROR_STRIPE_COLOR" value="b0e3a6" />
+        <option name="BACKGROUND" value="bef1b3" />
+        <option name="ERROR_STRIPE_COLOR" value="baeeb0" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
@@ -696,7 +698,7 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="fefff6" />
-        <option name="BACKGROUND" value="db5063" />
+        <option name="BACKGROUND" value="971b61" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
