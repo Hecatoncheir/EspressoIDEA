@@ -1,16 +1,17 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-03T10:49:11</property>
+    <property name="created">2018-06-03T18:44:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-03T10:49:17</property>
+    <property name="modified">2018-06-03T18:44:27</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="d8e335" />
     <option name="CARET_COLOR" value="630c50" />
     <option name="DOCUMENTATION_COLOR" value="fffceb" />
     <option name="ERROR_HINT" value="ff4872" />
@@ -28,6 +29,7 @@
     <option name="SELECTION_FOREGROUND" value="ca205f" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f6eeac" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -453,14 +455,15 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="d6d6d6" />
+        <option name="FOREGROUND" value="efefef" />
+        <option name="BACKGROUND" value="bdbfd6" />
         <option name="ERROR_STRIPE_COLOR" value="cbcbcb" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="c8f2c8" />
-        <option name="ERROR_STRIPE_COLOR" value="baeeba" />
+        <option name="BACKGROUND" value="b0e3a6" />
+        <option name="ERROR_STRIPE_COLOR" value="b0e3a6" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
@@ -616,7 +619,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="449c47" />
+        <option name="FOREGROUND" value="a8be2b" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -900,6 +903,22 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c13941" />
+        <option name="EFFECT_COLOR" value="ff385f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="af4a7e" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a8be2b" />
       </value>
     </option>
     <option name="YAML_COMMENT">
