@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T10:21:55</property>
+    <property name="created">2018-06-04T19:59:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T10:22:01</property>
+    <property name="modified">2018-06-04T20:00:00</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -91,7 +91,7 @@
         <option name="FOREGROUND" value="7b8f24" />
         <option name="BACKGROUND" value="d8e335" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="7b8f24" />
+        <option name="ERROR_STRIPE_COLOR" value="bec930" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -99,6 +99,7 @@
         <option name="FOREGROUND" value="e2175d" />
         <option name="BACKGROUND" value="ffbe46" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ffbd46" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -241,6 +242,7 @@
         <option name="FOREGROUND" value="d8e335" />
         <option name="BACKGROUND" value="7b8f24" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="7b8f24" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -527,8 +529,9 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="b43a8c" />
-        <option name="BACKGROUND" value="fdee58" />
+        <option name="BACKGROUND" value="fdda94" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="fdda94" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -636,7 +639,7 @@
     </option>
     <option name="GO_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e72f6b" />
+        <option name="FOREGROUND" value="6c279c" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -840,6 +843,7 @@
         <option name="FOREGROUND" value="fff59c" />
         <option name="BACKGROUND" value="e2175d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="e2175d" />
       </value>
     </option>
     <option name="SASS_MIXIN">
