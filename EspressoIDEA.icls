@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T06:23:19</property>
+    <property name="created">2018-06-04T07:03:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T06:23:26</property>
+    <property name="modified">2018-06-04T07:03:22</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -87,7 +87,7 @@
         <option name="FOREGROUND" value="7b8f24" />
         <option name="BACKGROUND" value="d8e335" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="7b8f24" />
+        <option name="ERROR_STRIPE_COLOR" value="d8e335" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -95,6 +95,7 @@
         <option name="FOREGROUND" value="e2175d" />
         <option name="BACKGROUND" value="ffbe46" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ffbd46" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -507,8 +508,9 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="b43a8c" />
-        <option name="BACKGROUND" value="fdee58" />
+        <option name="BACKGROUND" value="ffe593" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="b43a8c" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -820,6 +822,7 @@
         <option name="FOREGROUND" value="fff59c" />
         <option name="BACKGROUND" value="e2175d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="e2175d" />
       </value>
     </option>
     <option name="SASS_MIXIN">
