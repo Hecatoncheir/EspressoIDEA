@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T07:03:13</property>
+    <property name="created">2018-06-04T07:31:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T07:03:22</property>
+    <property name="modified">2018-06-04T07:31:21</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -20,7 +20,7 @@
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="e9f2fb" />
-    <option name="INFORMATION_HINT" value="c6ee86" />
+    <option name="INFORMATION_HINT" value="dcee87" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
     <option name="MODIFIED_LINES_COLOR" value="f6eeac" />
     <option name="QUESTION_HINT" value="e0e13b" />
@@ -100,7 +100,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffc8c8" />
+        <option name="BACKGROUND" value="ffefc1" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -546,7 +546,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="7673b4" />
+        <option name="BACKGROUND" value="a3b451" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
