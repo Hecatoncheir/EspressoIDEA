@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T07:31:16</property>
+    <property name="created">2018-06-04T07:41:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T07:31:21</property>
+    <property name="modified">2018-06-04T07:41:08</property>
     <property name="originalScheme">EspressoIDEA copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -22,7 +22,7 @@
     <option name="INDENT_GUIDE" value="e9f2fb" />
     <option name="INFORMATION_HINT" value="dcee87" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
-    <option name="MODIFIED_LINES_COLOR" value="f6eeac" />
+    <option name="MODIFIED_LINES_COLOR" value="fff3cd" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
@@ -33,7 +33,7 @@
     <option name="TEARLINE_COLOR" value="c3c1e4" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f6dd95" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fff3cd" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
