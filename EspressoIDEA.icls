@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T09:57:49</property>
+    <property name="created">2018-06-04T10:21:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T09:57:55</property>
+    <property name="modified">2018-06-04T10:22:01</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -114,6 +114,16 @@
         <option name="FOREGROUND" value="424662" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7a77a3" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9acb5b" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a9c951" />
@@ -132,6 +142,12 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="424662" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cba838" />
+        <option name="BACKGROUND" value="fffae3" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
