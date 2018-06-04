@@ -1,11 +1,11 @@
-<scheme name="EspressoIDEA copy" version="142" parent_scheme="Default">
+<scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-04T07:41:02</property>
+    <property name="created">2018-06-04T09:57:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-04T07:41:08</property>
-    <property name="originalScheme">EspressoIDEA copy</property>
+    <property name="modified">2018-06-04T09:57:55</property>
+    <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -13,16 +13,20 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="d8e335" />
     <option name="CARET_COLOR" value="630c50" />
-    <option name="DELETED_LINES_COLOR" value="b22535" />
     <option name="DOCUMENTATION_COLOR" value="fffceb" />
     <option name="ERROR_HINT" value="ff4872" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="fe4690" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="9acb5b" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="d2ff47" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="1dcad8" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="8a4de1" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="ff3c83" />
     <option name="INDENT_GUIDE" value="e9f2fb" />
-    <option name="INFORMATION_HINT" value="dcee87" />
+    <option name="INFORMATION_HINT" value="c6ee86" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
-    <option name="MODIFIED_LINES_COLOR" value="fff3cd" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
@@ -33,7 +37,7 @@
     <option name="TEARLINE_COLOR" value="c3c1e4" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fff3cd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f6eeac" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -87,7 +91,7 @@
         <option name="FOREGROUND" value="7b8f24" />
         <option name="BACKGROUND" value="d8e335" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="d8e335" />
+        <option name="ERROR_STRIPE_COLOR" value="7b8f24" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -95,12 +99,11 @@
         <option name="FOREGROUND" value="e2175d" />
         <option name="BACKGROUND" value="ffbe46" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffbd46" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffefc1" />
+        <option name="BACKGROUND" value="ffc8c8" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -508,9 +511,8 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="b43a8c" />
-        <option name="BACKGROUND" value="ffe593" />
+        <option name="BACKGROUND" value="fdee58" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="b43a8c" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -546,7 +548,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="a3b451" />
+        <option name="BACKGROUND" value="7673b4" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -618,7 +620,7 @@
     </option>
     <option name="GO_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="85389a" />
+        <option name="FOREGROUND" value="e72f6b" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -822,7 +824,6 @@
         <option name="FOREGROUND" value="fff59c" />
         <option name="BACKGROUND" value="e2175d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="e2175d" />
       </value>
     </option>
     <option name="SASS_MIXIN">
