@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-05T09:36:08</property>
+    <property name="created">2018-06-05T11:35:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-05T09:36:13</property>
+    <property name="modified">2018-06-05T11:35:37</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -27,6 +27,7 @@
     <option name="INDENT_GUIDE" value="e9f2fb" />
     <option name="INFORMATION_HINT" value="c6ee86" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
+    <option name="MODIFIED_LINES_COLOR" value="d6e9fc" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
@@ -91,7 +92,7 @@
         <option name="FOREGROUND" value="7b8f24" />
         <option name="BACKGROUND" value="d8e335" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="bec930" />
+        <option name="ERROR_STRIPE_COLOR" value="d8e335" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -115,9 +116,19 @@
         <option name="FOREGROUND" value="424662" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6a5fd4" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="60d2e2" />
+        <option name="FOREGROUND" value="5bcdce" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="70bdeb" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
@@ -133,6 +144,11 @@
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a9c951" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a71eb7" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -152,8 +168,7 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cba838" />
-        <option name="BACKGROUND" value="fffae3" />
+        <option name="FOREGROUND" value="d1cf22" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
