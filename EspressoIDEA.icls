@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-07T20:35:16</property>
+    <property name="created">2018-06-07T20:54:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-07T20:35:24</property>
+    <property name="modified">2018-06-07T20:54:39</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -33,8 +33,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="d6d6d6" />
     <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
     <option name="SELECTED_TEARLINE_COLOR" value="9c2545" />
-    <option name="SELECTION_BACKGROUND" value="fffae3" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="ffcccc" />
+    <option name="SELECTION_FOREGROUND" value="91113c" />
     <option name="TEARLINE_COLOR" value="d6d6d6" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
