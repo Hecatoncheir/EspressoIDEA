@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-06T17:33:22</property>
+    <property name="created">2018-06-07T11:33:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-06T17:33:29</property>
+    <property name="modified">2018-06-07T11:33:50</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,7 +14,7 @@
     <option name="ADDED_LINES_COLOR" value="d8e335" />
     <option name="CARET_COLOR" value="630c50" />
     <option name="DOCUMENTATION_COLOR" value="fffceb" />
-    <option name="ERROR_HINT" value="ff4872" />
+    <option name="ERROR_HINT" value="ff9da9" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
@@ -35,7 +35,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="9c2545" />
     <option name="SELECTION_BACKGROUND" value="ffe0c8" />
     <option name="SELECTION_FOREGROUND" value="ca205f" />
-    <option name="TEARLINE_COLOR" value="c3c1e4" />
+    <option name="TEARLINE_COLOR" value="d6d6d6" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f6eeac" />
@@ -133,7 +133,7 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7a77a3" />
+        <option name="FOREGROUND" value="735d9c" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -158,7 +158,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ec5416" />
+        <option name="FOREGROUND" value="ec1347" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -173,7 +173,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ec5416" />
+        <option name="FOREGROUND" value="eca517" />
         <option name="BACKGROUND" value="fffae3" />
       </value>
     </option>
@@ -721,8 +721,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="a9c951" />
+        <option name="BACKGROUND" value="fee9c2" />
+        <option name="EFFECT_COLOR" value="ed3b6e" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
