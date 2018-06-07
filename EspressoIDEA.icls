@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-07T17:48:20</property>
+    <property name="created">2018-06-07T20:01:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-07T17:48:28</property>
+    <property name="modified">2018-06-07T20:01:25</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -33,8 +33,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="d6d6d6" />
     <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
     <option name="SELECTED_TEARLINE_COLOR" value="9c2545" />
-    <option name="SELECTION_BACKGROUND" value="ffe0c8" />
-    <option name="SELECTION_FOREGROUND" value="ca205f" />
+    <option name="SELECTION_BACKGROUND" value="ffcfae" />
+    <option name="SELECTION_FOREGROUND" value="91113c" />
     <option name="TEARLINE_COLOR" value="d6d6d6" />
     <option name="TOOLTIP" value="fffceb" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
@@ -724,7 +724,7 @@
         <option name="FOREGROUND" value="ec1347" />
         <option name="BACKGROUND" value="fee9c2" />
         <option name="EFFECT_COLOR" value="ed3b6e" />
-        <option name="ERROR_STRIPE_COLOR" value="a642b4" />
+        <option name="ERROR_STRIPE_COLOR" value="750d8c" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
