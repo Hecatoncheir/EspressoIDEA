@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-07T11:50:31</property>
+    <property name="created">2018-06-07T17:07:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-07T11:50:38</property>
+    <property name="modified">2018-06-07T17:07:52</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -30,7 +30,7 @@
     <option name="MODIFIED_LINES_COLOR" value="d6e9fc" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
-    <option name="RIGHT_MARGIN_COLOR" value="ff356e" />
+    <option name="RIGHT_MARGIN_COLOR" value="d6d6d6" />
     <option name="SELECTED_INDENT_GUIDE" value="e1d038" />
     <option name="SELECTED_TEARLINE_COLOR" value="9c2545" />
     <option name="SELECTION_BACKGROUND" value="ffe0c8" />
@@ -724,6 +724,7 @@
         <option name="FOREGROUND" value="ec1347" />
         <option name="BACKGROUND" value="fee9c2" />
         <option name="EFFECT_COLOR" value="ed3b6e" />
+        <option name="ERROR_STRIPE_COLOR" value="ec815f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -941,7 +942,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="fff9d8" />
-        <option name="ERROR_STRIPE_COLOR" value="b1e158" />
+        <option name="ERROR_STRIPE_COLOR" value="e5bb0a" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
