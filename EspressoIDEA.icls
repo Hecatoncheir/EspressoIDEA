@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-08T07:37:02</property>
+    <property name="created">2018-06-08T10:26:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-08T07:37:09</property>
+    <property name="modified">2018-06-08T10:26:13</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -18,12 +18,12 @@
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
     <option name="FILESTATUS_modifiedOutside" value="cbd058" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="fe4690" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="9acb5b" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="d2ff47" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="1dcad8" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="8a4de1" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="ff3c83" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="2a9d8f" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="f4a261" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="b6d334" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="2ab7ca" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="dbe13c" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="da4167" />
     <option name="INDENT_GUIDE" value="e9f2fb" />
     <option name="INFORMATION_HINT" value="c6ee86" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
