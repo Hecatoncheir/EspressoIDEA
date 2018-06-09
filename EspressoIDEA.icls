@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-09T11:36:21</property>
+    <property name="created">2018-06-09T21:08:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-09T11:36:26</property>
+    <property name="modified">2018-06-09T21:08:47</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -27,12 +27,12 @@
     <option name="INDENT_GUIDE" value="eaeffc" />
     <option name="INFORMATION_HINT" value="c6ee86" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
-    <option name="MODIFIED_LINES_COLOR" value="d6e9fc" />
+    <option name="MODIFIED_LINES_COLOR" value="979ab4" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="eff2ff" />
     <option name="SELECTED_INDENT_GUIDE" value="dde361" />
-    <option name="SELECTED_TEARLINE_COLOR" value="adb5c7" />
+    <option name="SELECTED_TEARLINE_COLOR" value="7634ac" />
     <option name="SELECTION_BACKGROUND" value="ffeee7" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="d7dff1" />
@@ -583,11 +583,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c4395f" />
-        <option name="BACKGROUND" value="fed871" />
-        <option name="EFFECT_COLOR" value="febf53" />
-        <option name="ERROR_STRIPE_COLOR" value="febf53" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="fff9fc" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="b2283e" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
