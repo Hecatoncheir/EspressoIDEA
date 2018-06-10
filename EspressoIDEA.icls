@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-10T06:26:33</property>
+    <property name="created">2018-06-10T13:48:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-10T06:26:39</property>
+    <property name="modified">2018-06-10T13:48:14</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -27,7 +27,7 @@
     <option name="INDENT_GUIDE" value="eaeffc" />
     <option name="INFORMATION_HINT" value="c6ee86" />
     <option name="LINE_NUMBERS_COLOR" value="677392" />
-    <option name="MODIFIED_LINES_COLOR" value="979ab4" />
+    <option name="MODIFIED_LINES_COLOR" value="979cb9" />
     <option name="QUESTION_HINT" value="e0e13b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="fffaeb" />
     <option name="RIGHT_MARGIN_COLOR" value="eff2ff" />
@@ -98,9 +98,9 @@
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="e2175d" />
-        <option name="BACKGROUND" value="ffbe46" />
+        <option name="BACKGROUND" value="ffcea6" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffbd46" />
+        <option name="ERROR_STRIPE_COLOR" value="ffcea6" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -583,10 +583,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e62d5b" />
-        <option name="BACKGROUND" value="fff9fc" />
+        <option name="FOREGROUND" value="e2175d" />
+        <option name="BACKGROUND" value="ffe57b" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="b2283e" />
+        <option name="ERROR_STRIPE_COLOR" value="b2415c" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -972,8 +972,9 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="630c50" />
-        <option name="EFFECT_COLOR" value="ca205f" />
-        <option name="ERROR_STRIPE_COLOR" value="ca205f" />
+        <option name="BACKGROUND" value="ffbd46" />
+        <option name="EFFECT_COLOR" value="e2175d" />
+        <option name="ERROR_STRIPE_COLOR" value="e2175d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
