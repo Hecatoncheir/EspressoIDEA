@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-13T17:17:16</property>
+    <property name="created">2018-06-13T17:34:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-13T17:17:23</property>
+    <property name="modified">2018-06-13T17:34:35</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -865,10 +865,10 @@
     </option>
     <option name="PARENTHESIS_ATTR">
       <value>
-        <option name="FOREGROUND" value="fff59c" />
-        <option name="BACKGROUND" value="e27076" />
+        <option name="FOREGROUND" value="7e7fb6" />
+        <option name="BACKGROUND" value="e0eb6c" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="e27076" />
+        <option name="ERROR_STRIPE_COLOR" value="e0eb6c" />
       </value>
     </option>
     <option name="SASS_MIXIN">
