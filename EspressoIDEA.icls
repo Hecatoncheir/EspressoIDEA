@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-10T14:24:06</property>
+    <property name="created">2018-06-13T16:53:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-10T14:24:11</property>
+    <property name="modified">2018-06-13T16:54:00</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -259,10 +259,10 @@
     </option>
     <option name="CUSP_BRACKETS_ATTR">
       <value>
-        <option name="FOREGROUND" value="d8e335" />
-        <option name="BACKGROUND" value="7b8f24" />
+        <option name="FOREGROUND" value="fee9c2" />
+        <option name="BACKGROUND" value="a1bc30" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="7b8f24" />
+        <option name="ERROR_STRIPE_COLOR" value="a1bc30" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -523,27 +523,27 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="ffded8" />
-        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+        <option name="BACKGROUND" value="ffddda" />
+        <option name="ERROR_STRIPE_COLOR" value="ffddda" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
         <option name="FOREGROUND" value="efefef" />
-        <option name="BACKGROUND" value="d2d4eb" />
-        <option name="ERROR_STRIPE_COLOR" value="cbcbcb" />
+        <option name="BACKGROUND" value="dee1f8" />
+        <option name="ERROR_STRIPE_COLOR" value="dee1f8" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="bef1b3" />
-        <option name="ERROR_STRIPE_COLOR" value="baeeb0" />
+        <option name="BACKGROUND" value="dbf0a0" />
+        <option name="ERROR_STRIPE_COLOR" value="dbf0a0" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="cad9fa" />
-        <option name="ERROR_STRIPE_COLOR" value="bccff9" />
+        <option name="BACKGROUND" value="ddecf8" />
+        <option name="ERROR_STRIPE_COLOR" value="ddecf8" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -868,9 +868,9 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="fff59c" />
-        <option name="BACKGROUND" value="e2175d" />
+        <option name="BACKGROUND" value="e27076" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="e2175d" />
+        <option name="ERROR_STRIPE_COLOR" value="e27076" />
       </value>
     </option>
     <option name="SASS_MIXIN">
