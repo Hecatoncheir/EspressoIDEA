@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-13T16:53:56</property>
+    <property name="created">2018-06-13T17:17:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-13T16:54:00</property>
+    <property name="modified">2018-06-13T17:17:23</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -842,10 +842,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="630c50" />
-        <option name="BACKGROUND" value="fee88d" />
-        <option name="EFFECT_COLOR" value="c4395f" />
-        <option name="ERROR_STRIPE_COLOR" value="b6d334" />
+        <option name="FOREGROUND" value="f6eeac" />
+        <option name="BACKGROUND" value="f5348a" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
