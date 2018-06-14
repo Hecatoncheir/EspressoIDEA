@@ -1,10 +1,10 @@
 <scheme name="EspressoIDEA" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-13T17:34:31</property>
+    <property name="created">2018-06-14T10:45:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-13T17:34:35</property>
+    <property name="modified">2018-06-14T10:45:16</property>
     <property name="originalScheme">EspressoIDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -723,7 +723,7 @@
         <option name="FOREGROUND" value="ec1347" />
         <option name="BACKGROUND" value="fee9c2" />
         <option name="EFFECT_COLOR" value="ed3b6e" />
-        <option name="ERROR_STRIPE_COLOR" value="750d8c" />
+        <option name="ERROR_STRIPE_COLOR" value="ffd3ab" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -970,7 +970,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="630c50" />
-        <option name="BACKGROUND" value="ffbd46" />
+        <option name="BACKGROUND" value="ffecbc" />
         <option name="EFFECT_COLOR" value="e2175d" />
         <option name="ERROR_STRIPE_COLOR" value="e2175d" />
         <option name="EFFECT_TYPE" value="2" />
