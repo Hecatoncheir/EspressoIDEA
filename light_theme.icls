@@ -1,10 +1,10 @@
 <scheme name="light_theme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-18T10:12:52</property>
+    <property name="created">2019-01-30T10:59:05</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-18T10:12:56</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-01-30T10:59:21</property>
     <property name="originalScheme">light_theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -597,6 +597,11 @@
         <option name="BACKGROUND" value="ffbe46" />
       </value>
     </option>
+    <option name="FLUTTER_LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff387c" />
+      </value>
+    </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8d92a7" />
@@ -812,6 +817,11 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff387c" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -967,6 +977,21 @@
       <value>
         <option name="FOREGROUND" value="630c50" />
         <option name="BACKGROUND" value="db3516" />
+      </value>
+    </option>
+    <option name="UPSOURCE_FILE_DISCUSSION">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="9ae391" />
+      </value>
+    </option>
+    <option name="UPSOURCE_FILE_DISCUSSION_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="fff37d" />
+      </value>
+    </option>
+    <option name="UPSOURCE_WARNING_IN_DIFF">
+      <value>
+        <option name="EFFECT_COLOR" value="f6745f" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
