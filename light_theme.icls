@@ -1,10 +1,10 @@
 <scheme name="light_theme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-30T10:59:05</property>
+    <property name="created">2019-01-31T13:58:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-01-30T10:59:21</property>
+    <property name="modified">2019-01-31T13:58:47</property>
     <property name="originalScheme">light_theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -390,8 +390,9 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="a7db5c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ff505e" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
