@@ -1,19 +1,20 @@
 <scheme name="light_theme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-31T13:58:42</property>
+    <property name="created">2019-03-20T06:16:50</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-01-31T13:58:47</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-03-20T06:17:51</property>
     <property name="originalScheme">light_theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="dbf0a0" />
     <option name="CARET_COLOR" value="630c50" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="e2e1ec" />
     <option name="DOCUMENTATION_COLOR" value="fffceb" />
     <option name="ERROR_HINT" value="ff9da9" />
     <option name="FILESTATUS_MODIFIED" value="83a82f" />
@@ -37,6 +38,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="7e7fb6" />
     <option name="SELECTION_BACKGROUND" value="ffeee7" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="d7dff1" />
     <option name="TOOLTIP" value="ffecbc" />
     <option name="VISUAL_INDENT_GUIDE" value="bfe176" />
@@ -108,6 +110,7 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffe18b" />
+        <option name="ERROR_STRIPE_COLOR" value="ffe18b" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
